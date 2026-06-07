@@ -41,26 +41,12 @@ The objective is to transform raw business data into actionable insights that ca
 
 ✔ INTERVAL
 
-**Business Insights**
-
-• Identified 41% of customers as Financial Churn, indicating no transactions for more than 90 days.
-
-• Detected 1.5% of customers as Engagement Churn, showing no platform login activity for over 90 days.
-
-• Identified Silent Churn customers
-
-• Segmented the remaining 58.5% of customers as Active, enabling comparison between retained and at-risk users.
-
-• Combined subscription status and plan information for analysis
-
-**Business Recommendations**
-
 # Business Insights
 
 * Analyzed **50,000+ customer records** across customer, subscription, transaction, and user activity datasets using PostgreSQL.
-* Identified **XX%** of customers as **Financial Churn**, indicating no transactions for more than **90 days**.
-* Detected **XX%** of customers as **Engagement Churn**, showing no platform login activity for over **90 days**.
-* Classified **XX%** of customers as **Silent Churn**, where both payment and engagement activity had ceased.
+* Identified **41%** of customers as **Financial Churn**, indicating no transactions for more than **90 days**.
+* Detected **1.5%** of customers as **Engagement Churn**, showing no platform login activity for over **90 days**.
+* Classified customers as **Silent Churn**, where both payment and engagement activity had ceased.
 * Segmented the remaining **XX%** of customers as **Active**, enabling comparison between retained and at-risk users.
 * Utilized advanced SQL techniques including **CTEs, Window Functions, Joins, Subqueries, Aggregate Functions, CASE statements, and HAVING clauses** to derive actionable business insights.
 
