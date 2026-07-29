@@ -1,4 +1,4 @@
-# SaaS-Customer-Churn-Analysis-using-PostgreSQL
+# SaaS-Customer Churn Intelligence & Retention Analytics
 End-to-end SaaS Customer Churn Analysis using PostgreSQL | SQL, CTEs, Window Functions, EDA &amp; Business Insights
 
 This project analyzes customer transactions, subscriptions, and user engagement data to identify customers at risk of churn. Using PostgreSQL and advanced SQL techniques such as CTEs, Window Functions, Joins, Aggregate Functions, and CASE statements, customers are classified into Financial Churn, Engagement Churn, Silent Churn, and Active segments.
